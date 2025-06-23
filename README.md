@@ -1,4 +1,3 @@
-# elevate-labs-task01-amazon-data
 # 🛒 Amazon Product Sales Data Preprocessing – Elevate Labs Task 01
 
 This repository contains the preprocessing work done for Task 01 of the Elevate Labs Internship using the [Amazon Sales Dataset](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset). The dataset includes product details, pricing, ratings, reviews, and links.
